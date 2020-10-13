@@ -1,0 +1,12 @@
+.gradle/
+build/
+bin/
+*.class
+# Default ignored files
+.idea/workspace.xml
+report/individual_report.*
+.hg/
+.hgignore
+.settings
+.project
+.idea
